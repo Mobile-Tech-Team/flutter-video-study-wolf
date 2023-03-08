@@ -1,4 +1,4 @@
-# first_app
+# Wolf's Flutter Study Project
 
 A new Flutter project.
 
